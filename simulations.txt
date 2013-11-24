@@ -1,0 +1,279 @@
+************ BEGIN SIMULATION ************
+
+=============================================================
+==     *** M/D/1 Energy Save Project Simulation ***        ==
+=============================================================
+= Arrival rate                          = 100.000 reqs/sec
+= Assistant Service rate        = 1000.000 reqs/sec
+= Master Service rate           = 100.000 reqs/sec
+= Total CPU time                        =  0.700 sec
+= Simulation time                       = 50000.000 sec
+= Epoch Period                          = 20.000
+= Where Master is on 10.000 sec and off 10.000 sec
+=============================================================
+= >>> Efficiency Results                                    -
+= Total master completions  = 50120 reqs
+= Total master drops            = 0 reqs
+= Total master reqs             = 50120 reqs
+= % of Dropped requests =  0.000 % drops
+=============================================================
+==     *** Simulation Result for Master ***       ==
+=============================================================
+= >>> Simulation results for master server       -
+=------------------------------------------------------------
+= Utilization        =  8.245 %
+= Mean throughput    =  1.002 reqs/sec
+= Mean customers     =  0.190 reqs
+= Mean delay    =  0.190 sec
+= Total Completed = 50120 reqs
+=============================================================
+
+************ END SIMULATION ************
+************ BEGIN SIMULATION ************
+
+=============================================================
+==     *** M/D/1 Energy Save Project Simulation ***        ==
+=============================================================
+= Arrival rate                          = 200.000 reqs/sec
+= Assistant Service rate        = 1000.000 reqs/sec
+= Master Service rate           = 100.000 reqs/sec
+= Total CPU time                        =  2.754 sec
+= Simulation time                       = 100000.000 sec
+= Epoch Period                          = 20.000
+= Where Master is on 10.000 sec and off 10.000 sec
+=============================================================
+= >>> Efficiency Results                                    -
+= Total master completions  = 200679 reqs
+= Total master drops            = 1 reqs
+= Total master reqs             = 200680 reqs
+= % of Dropped requests =  0.000 % drops
+=============================================================
+==     *** Simulation Result for Master ***       ==
+=============================================================
+= >>> Simulation results for master server       -
+=------------------------------------------------------------
+= Utilization        =  5.878 %
+= Mean throughput    =  2.007 reqs/sec
+= Mean customers     =  0.113 reqs
+= Mean delay    =  0.056 sec
+= Total Completed = 200680 reqs
+=============================================================
+
+************ END SIMULATION ************
+************ BEGIN SIMULATION ************
+
+=============================================================
+==     *** M/D/1 Energy Save Project Simulation ***        ==
+=============================================================
+= Arrival rate                          = 300.000 reqs/sec
+= Assistant Service rate        = 1000.000 reqs/sec
+= Master Service rate           = 100.000 reqs/sec
+= Total CPU time                        =  7.105 sec
+= Simulation time                       = 150000.000 sec
+= Epoch Period                          = 20.000
+= Where Master is on 10.000 sec and off 10.000 sec
+=============================================================
+= >>> Efficiency Results                                    -
+= Total master completions  = 500620 reqs
+= Total master drops            = 1 reqs
+= Total master reqs             = 500621 reqs
+= % of Dropped requests =  0.000 % drops
+=============================================================
+==     *** Simulation Result for Master ***       ==
+=============================================================
+= >>> Simulation results for master server       -
+=------------------------------------------------------------
+= Utilization        =  6.231 %
+= Mean throughput    =  3.337 reqs/sec
+= Mean customers     =  0.100 reqs
+= Mean delay    =  0.030 sec
+= Total Completed = 500620 reqs
+=============================================================
+
+************ END SIMULATION ************
+************ BEGIN SIMULATION ************
+
+=============================================================
+==     *** M/D/1 Energy Save Project Simulation ***        ==
+=============================================================
+= Arrival rate                          = 400.000 reqs/sec
+= Assistant Service rate        = 1000.000 reqs/sec
+= Master Service rate           = 100.000 reqs/sec
+= Total CPU time                        = 14.849 sec
+= Simulation time                       = 200000.000 sec
+= Epoch Period                          = 20.000
+= Where Master is on 10.000 sec and off 10.000 sec
+=============================================================
+= >>> Efficiency Results                                    -
+= Total master completions  = 1001211 reqs
+= Total master drops            = 0 reqs
+= Total master reqs             = 1001211 reqs
+= % of Dropped requests =  0.000 % drops
+=============================================================
+==     *** Simulation Result for Master ***       ==
+=============================================================
+= >>> Simulation results for master server       -
+=------------------------------------------------------------
+= Utilization        =  7.621 %
+= Mean throughput    =  5.006 reqs/sec
+= Mean customers     =  0.108 reqs
+= Mean delay    =  0.022 sec
+= Total Completed = 1001211 reqs
+=============================================================
+
+************ END SIMULATION ************
+************ BEGIN SIMULATION ************
+
+=============================================================
+==     *** M/D/1 Energy Save Project Simulation ***        ==
+=============================================================
+= Arrival rate                          = 500.000 reqs/sec
+= Assistant Service rate        = 1000.000 reqs/sec
+= Master Service rate           = 100.000 reqs/sec
+= Total CPU time                        = 27.231 sec
+= Simulation time                       = 250000.000 sec
+= Epoch Period                          = 20.000
+= Where Master is on 10.000 sec and off 10.000 sec
+=============================================================
+= >>> Efficiency Results                                    -
+= Total master completions  = 1751511 reqs
+= Total master drops            = 0 reqs
+= Total master reqs             = 1751511 reqs
+= % of Dropped requests =  0.000 % drops
+=============================================================
+==     *** Simulation Result for Master ***       ==
+=============================================================
+= >>> Simulation results for master server       -
+=------------------------------------------------------------
+= Utilization        =  9.802 %
+= Mean throughput    =  7.006 reqs/sec
+= Mean customers     =  0.131 reqs
+= Mean delay    =  0.019 sec
+= Total Completed = 1751511 reqs
+=============================================================
+
+************ END SIMULATION ************
+************ BEGIN SIMULATION ************
+
+=============================================================
+==     *** M/D/1 Energy Save Project Simulation ***        ==
+=============================================================
+= Arrival rate                          = 600.000 reqs/sec
+= Assistant Service rate        = 1000.000 reqs/sec
+= Master Service rate           = 100.000 reqs/sec
+= Total CPU time                        = 45.617 sec
+= Simulation time                       = 300000.000 sec
+= Epoch Period                          = 20.000
+= Where Master is on 10.000 sec and off 10.000 sec
+=============================================================
+= >>> Efficiency Results                                    -
+= Total master completions  = 2800168 reqs
+= Total master drops            = 0 reqs
+= Total master reqs             = 2800168 reqs
+= % of Dropped requests =  0.000 % drops
+=============================================================
+==     *** Simulation Result for Master ***       ==
+=============================================================
+= >>> Simulation results for master server       -
+=------------------------------------------------------------
+= Utilization        = 12.827 %
+= Mean throughput    =  9.334 reqs/sec
+= Mean customers     =  0.171 reqs
+= Mean delay    =  0.018 sec
+= Total Completed = 2800168 reqs
+=============================================================
+
+************ END SIMULATION ************
+************ BEGIN SIMULATION ************
+
+=============================================================
+==     *** M/D/1 Energy Save Project Simulation ***        ==
+=============================================================
+= Arrival rate                          = 700.000 reqs/sec
+= Assistant Service rate        = 1000.000 reqs/sec
+= Master Service rate           = 100.000 reqs/sec
+= Total CPU time                        = 71.629 sec
+= Simulation time                       = 350000.000 sec
+= Epoch Period                          = 20.000
+= Where Master is on 10.000 sec and off 10.000 sec
+=============================================================
+= >>> Efficiency Results                                    -
+= Total master completions  = 4197566 reqs
+= Total master drops            = 1 reqs
+= Total master reqs             = 4197567 reqs
+= % of Dropped requests =  0.000 % drops
+=============================================================
+==     *** Simulation Result for Master ***       ==
+=============================================================
+= >>> Simulation results for master server       -
+=------------------------------------------------------------
+= Utilization        = 16.732 %
+= Mean throughput    = 11.993 reqs/sec
+= Mean customers     =  0.240 reqs
+= Mean delay    =  0.020 sec
+= Total Completed = 4197567 reqs
+=============================================================
+
+************ END SIMULATION ************
+************ BEGIN SIMULATION ************
+
+=============================================================
+==     *** M/D/1 Energy Save Project Simulation ***        ==
+=============================================================
+= Arrival rate                          = 800.000 reqs/sec
+= Assistant Service rate        = 1000.000 reqs/sec
+= Master Service rate           = 100.000 reqs/sec
+= Total CPU time                        = 107.122 sec
+= Simulation time                       = 400000.000 sec
+= Epoch Period                          = 20.000
+= Where Master is on 10.000 sec and off 10.000 sec
+=============================================================
+= >>> Efficiency Results                                    -
+= Total master completions  = 5997671 reqs
+= Total master drops            = 4 reqs
+= Total master reqs             = 5997675 reqs
+= % of Dropped requests =  0.000 % drops
+=============================================================
+==     *** Simulation Result for Master ***       ==
+=============================================================
+= >>> Simulation results for master server       -
+=------------------------------------------------------------
+= Utilization        = 21.910 %
+= Mean throughput    = 14.994 reqs/sec
+= Mean customers     =  0.371 reqs
+= Mean delay    =  0.025 sec
+= Total Completed = 5997672 reqs
+=============================================================
+
+************ END SIMULATION ************
+************ BEGIN SIMULATION ************
+
+=============================================================
+==     *** M/D/1 Energy Save Project Simulation ***        ==
+=============================================================
+= Arrival rate                          = 900.000 reqs/sec
+= Assistant Service rate        = 1000.000 reqs/sec
+= Master Service rate           = 100.000 reqs/sec
+= Total CPU time                        = 153.816 sec
+= Simulation time                       = 450000.000 sec
+= Epoch Period                          = 20.000
+= Where Master is on 10.000 sec and off 10.000 sec
+=============================================================
+= >>> Efficiency Results                                    -
+= Total master completions  = 8246799 reqs
+= Total master drops            = 9 reqs
+= Total master reqs             = 8246808 reqs
+= % of Dropped requests =  0.000 % drops
+=============================================================
+==     *** Simulation Result for Master ***       ==
+=============================================================
+= >>> Simulation results for master server       -
+=------------------------------------------------------------
+= Utilization        = 28.716 %
+= Mean throughput    = 18.326 reqs/sec
+= Mean customers     =  0.824 reqs
+= Mean delay    =  0.045 sec
+= Total Completed = 8246800 reqs
+=============================================================
+
+************ END SIMULATION ************
